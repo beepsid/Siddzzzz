@@ -20,7 +20,7 @@ Hey! I'm Sid, a student living currently in Kanpur, India. Am currently doing <a
 
 <!--
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/31dfq7tm654h4yikrpba3w47uehm">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
