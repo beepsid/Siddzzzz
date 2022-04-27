@@ -12,20 +12,6 @@ Hey! I'm Sid, a student living currently in Kanpur, India. Am currently doing <a
 </div>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31dfq7tm654h4yikrpba3w47uehm">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/31dfq7tm654h4yikrpba3w47uehm">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 ## My Statistics
 
 <br/>
