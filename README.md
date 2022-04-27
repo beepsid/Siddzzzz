@@ -30,11 +30,11 @@ Hey! I'm Sid, a student living currently in Kanpur, India. Am currently doing <a
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  <a href="https://Siddzzzz.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Siddzzzz&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddzzzz&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Siddzzzz' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddzzzz&custom_title=Siddzzzz's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Siddzzzz)
