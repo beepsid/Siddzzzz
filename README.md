@@ -37,4 +37,4 @@ Hey! I'm Sid, a student living currently in Kanpur, India. Am currently doing <a
 </p>
 <br>
 
-[![Siddzzzz' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddzzzz&custom_title=Siddzzzz's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Siddzzzz)
+[![Siddzzzz' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddzzzz&custom_title=Siddzzzz's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Siddzzzz)
