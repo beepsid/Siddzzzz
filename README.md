@@ -22,5 +22,10 @@ Hey! I'm Sid, a student living currently in Kanpur, India. Am currently doing <a
   </a>
 </p>
 <br>
+<br/> 
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<br/>
 
 [![Siddzzzz' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddzzzz&custom_title=Siddzzzz's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Siddzzzz)
